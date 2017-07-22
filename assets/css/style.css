@@ -1,6 +1,6 @@
 body {
 	background-image: url("../images/background.jpg");
-	
+	width: 960px;
 }
 
 h1{
@@ -9,7 +9,7 @@ h1{
 	display:inline;
 	clear: both;
 	padding: 10px;
-	margin-bottom: 20px;
+	margin: 20px 20px 20px 20px;
 	border: solid 1px #ddd;
 }
 
