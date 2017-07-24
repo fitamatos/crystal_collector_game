@@ -1,6 +1,6 @@
 body {
-	background-image: url("../images/background.jpg");
-	width: 960px;
+	background-color: #808080;
+	
 }
 
 h1{
@@ -14,13 +14,14 @@ h1{
 }
 
 #wrapper {
+	background-color: #808080;
 	width: 100%
 	max-width:960px;
 	margin: 0 auto;
 }
 
 #instructions {
-	background-color: white;
+	background-color: #e0ebeb;
 	width: 50%;
 	clear:both;
 	padding: 15px;
